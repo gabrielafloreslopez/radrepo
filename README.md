@@ -1,2 +1,3 @@
 # Miscellaneous 
-This is a set of files to make figures for nnUnet
+Figures for nnUnet modified model 
+2D architecture & 3D fullres architecture 
